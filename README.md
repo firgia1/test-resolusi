@@ -1,0 +1,2 @@
+# test-resolusi
+percobaan resolusi
